@@ -21,7 +21,7 @@ height: 100vh;
 }
 
 .store-buttons {
-    display: flex;
+    displ ay: flex;
     flex-wrap: wrap;
     margin-right: auto;
     margin-left: auto;
